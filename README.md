@@ -16,10 +16,6 @@ go build -o nimble_cli ./cmd/cli
 ```bash
 sudo mv nimble_cli /usr/local/bin/
 ```
-  - ✅ **Check**
-```bash
-nimble_cli --help
-```
 
 Nimble CLI comes with a **Server** - [Nimble Server Repository](https://github.com/arm1n18/nimble)
 
