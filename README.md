@@ -5,8 +5,8 @@
 ## ⚡ Installation
   - 1️⃣ **Download**
 ```bash
-git fetch https://github.com/arm1n18/nimble_cli.git
-cd server
+git clone https://github.com/arm1n18/nimble_cli.git
+cd nimble_cli
 ```
   - 2️⃣ **Build**
 ```bash
